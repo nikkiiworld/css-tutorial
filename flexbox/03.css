@@ -1,0 +1,3 @@
+.flex-container{
+    flex-wrap: nowrap; /* a nowrap nem engedi a tördelést, a wrap pedig igen */
+} 
